@@ -1,0 +1,1 @@
+# my-smc-trading-bot.
